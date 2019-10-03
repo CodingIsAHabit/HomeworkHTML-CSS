@@ -1,0 +1,106 @@
+body {
+
+	background-color: darkred;
+
+}
+
+.logo {
+
+	height: 100px;
+	width: 300px;
+}
+
+.ul {
+    list-style-type: none;
+    margin: 40;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    
+
+
+   
+}
+
+.li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 16px;
+    text-decoration: none;
+    line-height: 5px;
+}
+
+.main {
+
+	padding-left: 200px;
+	padding-right: 200px;
+
+}
+
+.small-box {
+
+	background-color: #79d2a6;
+	width: auto;
+	height: 500px;
+
+}
+
+.paperplane {
+
+	height: 200px;
+	width: 200px;
+	margin-left: 150px;
+	margin-top: 100px;
+}
+
+.text1 {
+
+	color: white;
+	position: absolute;
+	margin-left: 550px;
+	margin-bottom: 900px;
+	top: 30%;
+}
+
+.large-box {
+
+	background-color: white;
+	height: 800px;
+	width: auto;
+}
+
+.inside-box {
+
+	background-color: lightblue;
+	height: 800px;
+	width: 30%;
+	color: lightblue;
+	font-size: 1.5em;
+}
+
+
+.titlething {
+
+	font-size: 1em;
+	color: lightblue;
+}
+
+.text2 {
+
+	color: lightblue;
+	position: absolute;
+	margin-left: 520px;
+	margin-bottom: 400px;
+	top: 65%;
+	font-size: 1.5em;
+}
+
+.text3 {
+
+	color: darkgray;
+}
