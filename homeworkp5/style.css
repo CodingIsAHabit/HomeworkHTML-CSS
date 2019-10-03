@@ -1,0 +1,205 @@
+.a1 {
+
+	margin: 0px;
+	background-color: gray;
+}
+
+.a2 {
+
+	position: relative;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 8%;
+	margin-bottom: 3%;
+	height: 500px;
+	background-color: orange;
+
+}
+
+.a4 {
+
+	height: 500px;
+	width: auto;
+	background-color: orange;
+
+}
+
+.orange {
+
+	background-color: red;
+}
+
+.corners {
+
+	border-radius: 25px;
+}
+
+.corners1 {
+
+	border-radius-left: 25px;
+	border-radius-right: 25px;
+}
+
+.navbar {
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+}
+
+.nav ul {
+  list-style: none;
+  background-color: #ff704d;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+ 
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  border-left: 1px solid white;
+  border-right: 1px solid white
+  padding: 1.5em;
+}
+ 
+
+ 
+@media screen and (min-width: 600px) {
+  .nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+
+   .nav li {
+    display: inline-block;
+    margin-right: -4px;
+
+}
+
+.vertical-right {
+  min-height: 100%;
+  min-height: 100vh;
+  align-items: right;
+  margin-left: 50%;
+  margin-top: 10%;
+}
+
+.a5 {
+
+	background-color: white;
+	width: auto;
+	height: 600px;
+	margin-left: 10%;
+	margin-right: 10%;
+  top: 10%;
+  display: flex;
+}
+
+.a6 {
+
+	background-color: lightgray;
+	width: 30%;
+	height: 320px;
+  color: white;
+  margin-top: 15%;
+  margin-left: 5%;
+  margin-right: 8px;
+}
+
+.a7 {
+
+ background-color: lightgray;
+  width: 30%;
+  height: 320px;
+  color: white;
+  margin-top: 15%;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.a8 {
+
+ background-color: lightgray;
+  width: 30%;
+  height: 320px;
+  color: white;
+  margin-top: 15%;
+  margin-left: 8px;
+  margin-right: 5%;
+}
+
+.a9 {
+
+  width: 25%;
+  height: 470px;
+  color: lightgray;
+  border-right: 1px solid lightgray;
+  font-size: 1.2em;
+
+}
+
+.a9 p {
+
+  margin-left: 80px;
+}
+
+
+.b1 {
+
+  background-color: white;
+  width: auto;
+  height: 500px;
+  margin-left: 10%;
+  margin-right: 10%;
+  top: 10%;
+  display: flex;
+}
+
+.b2 {
+
+  color: lightgray;
+  width: 50%;
+  height: 460px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+
+
+  }
+
+  .b3 {
+
+    width: 25%;
+    right: 5%;
+
+  }
+
+  .b4 {
+
+     background-color: red;
+  width: auto;
+  height: 350px;
+  margin-left: 10%;
+  margin-right: 10%;
+  top: 10%;
+  display: flex;
+  color: white;
+  }
+
+  .b4 div {
+
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 2%;
+  }
